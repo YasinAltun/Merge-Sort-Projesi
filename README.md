@@ -8,9 +8,10 @@
 
 ![image](https://user-images.githubusercontent.com/103898383/173248899-5dfa1b42-9f7d-47c6-af2e-21b229e058c7.png)
 
-**İkili birleştirme yöntemi**
+**İkili birleştirme yöntemi**	
+											
+![image](https://user-images.githubusercontent.com/103898383/173249092-4be22d4f-a975-42f1-b89e-606b0ddcdb5e.png)
 
-![image](https://user-images.githubusercontent.com/103898383/173248940-8610d510-6c43-4b48-a455-5c94b084bac9.png)
 
 #### 2. Big-O gösterimini yazınız.
 Recursive bir fonksiyon olduğu için sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından O(n*(logn)) --> O(6*(log6)) olacaktır.

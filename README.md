@@ -4,9 +4,12 @@
 #### 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ###### MErge Sort: Birleşmeli Sıralama, bilgisayar bilimlerinde {\displaystyle {\mathcal {O}}} derecesinde karmaşıklığa sahip bir sıralama algoritmasıdır. Girdi olarak aldığı diziyi en küçük hale gelene kadar ikili gruplara böler ve karşılaştırma yöntemi kullanarak diziyi sıralar
 
-**İkili bölme işlemi**			
+**İkili bölme işlemi**	
+
 ![image](https://user-images.githubusercontent.com/103898383/173248899-5dfa1b42-9f7d-47c6-af2e-21b229e058c7.png)
+
 **İkili birleştirme yöntemi**
+
 ![image](https://user-images.githubusercontent.com/103898383/173248940-8610d510-6c43-4b48-a455-5c94b084bac9.png)
 
 #### 2. Big-O gösterimini yazınız.
